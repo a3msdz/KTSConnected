@@ -13,7 +13,11 @@ Dự án KTS Connected là sự kết hợp nỗ lực đồng đội để xây
 
 ## Hướng Dẫn Sử Dụng
 
-1. **Bước 1:** ...
+**Cách 1:** Clone App bằng lệnh
 
    ```bash
-   $ git clone https://github.com/yourusername/kts-connected.git
+   $ git clone https://github.com/a3msdz/KTSConnected.git
+**Cách 2:** Tải trực tiếp trên github
+
+   ```bash
+   Bạn có thể tải ngay ở trên này
