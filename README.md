@@ -17,7 +17,9 @@ Dự án KTS Connected là sự kết hợp nỗ lực đồng đội để xây
 
    ```bash
    $ git clone https://github.com/a3msdz/KTSConnected.git
+   ```
 **Cách 2:** Tải trực tiếp trên github
 
    ```bash
    Bạn có thể tải ngay ở trên này
+   ```
